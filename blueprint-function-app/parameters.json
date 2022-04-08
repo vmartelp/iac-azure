@@ -1,0 +1,17 @@
+{
+    "storageName": {
+        "value": "mystorageaccountacgarm"
+      },
+    "servicePlanName": {
+        "value": "myserviceplanarmname"
+      },
+    "functionName": {
+        "value": "myfunctionarmname"
+      },
+
+    "insightsName": {
+        "value": "myappinsightsarmname"
+      }
+
+
+}
